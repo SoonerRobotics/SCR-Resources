@@ -36,5 +36,5 @@
 * Repeat this for /home and /swap. Give /swap around 8-16GB and give /home the rest.
 * Complete installation by following the rest of the instructions.
             
-### 4. After installation
-Now you should be able to dual boot Windows and Linux!. I recommend you to check out the troubleshooting guide after if you have any errors while following the steps above or would like to fix any bugs you may have in Ubuntu.
+## After Installation and Troubleshooting
+Now you should be able to dual boot Windows and Linux!. I recommend you to check out the [troubleshooting guide](TROUBLESHOOT.md) after if you have any errors while following the steps above or would like to fix any bugs you may have in Ubuntu.
