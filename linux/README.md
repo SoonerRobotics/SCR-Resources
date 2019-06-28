@@ -37,13 +37,4 @@
 * Complete installation by following the rest of the instructions.
             
 ### 4. After installation
-
-A bug that you may have with Ubuntu 16.04 is that Ubuntu freezes when you try to shutdown.
-#### How to fix:
-* Open Ubuntu's Terminal
-* Run ```sudo nano etc/default/grub```
-* Edit ```GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"``` to ```GRUB_CMDLINE_LINUX_DEFAULT="quiet splash acpi=force"```
-* Save using Ctrl+O
-* Exit using Ctrl+X
-* Run ```update-grub```
-        
+Now you should be able to dual boot Windows and Linux!. I recommend you to check out the troubleshooting guide after if you have any errors while following the steps above or would like to fix any bugs you may have in Ubuntu.
