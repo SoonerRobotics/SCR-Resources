@@ -32,5 +32,6 @@ Read this for solutions to your Linux installation errors
 * Run ```update-grub```
 
 ## Switching from Ubuntu to Windows changes Windows time
-// TODO
+* Go to Ubuntu Terminal
+* Run ```timedatectl set-local-rtc 1```
 
