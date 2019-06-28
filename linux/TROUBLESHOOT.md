@@ -6,6 +6,14 @@ Read this for solutions to your Linux installation errors
 * Make sure your image is an .iso file. If it's .iso.torrent, use BitTorrent https://www.bittorrent.com/ to obtain the image.
 * Your USB is formatted
 
+## Errors while freeing space for Linux
+* Ensure you have enough space to free on your computer.
+* Freed space doesn't need to be formatted or used to create a new volume
+
+## Ubuntu won't launch on startup
+* Make sure the USB is to be booted in BIOS
+* Make sure the USB is created correctly
+
 ## Ubuntu's "Installation Type" is empty
 * Go to cmd
 * Run ```bcdedit /set {current} safeboot minimal``` to enable safe boot
