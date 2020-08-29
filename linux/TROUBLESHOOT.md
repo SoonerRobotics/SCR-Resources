@@ -8,11 +8,11 @@ Read this for solutions to your Linux installation errors
 
 ## Errors while freeing space for Linux
 * Ensure you have enough space to free on your computer.
-* Freed space doesn't need to be formatted or used to create a new volume
+* Leave the shrunk volume as unformatted
 
 ## Ubuntu won't launch on startup
-* Make sure the USB is to be booted in BIOS
-* Make sure the USB is created correctly
+* Plug in the USB drive before restarting
+* Check the boot order in BIOS
 
 ## Ubuntu's "Installation Type" is empty
 * Go to cmd
